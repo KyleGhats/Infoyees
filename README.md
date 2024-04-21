@@ -4,7 +4,7 @@ Infoyees is an Internship Management System project that we developed during my 
 
 ## Tech used:
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php,ajax,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap" />
 
 ## Features 
 - [x] Authentication
